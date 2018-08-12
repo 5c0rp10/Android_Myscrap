@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Data/Workspace/Android/Android MyScrap/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/commons-0.9.4.5.aar/90f24016c7f1b9ef2504b178b61b3726/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "580",
+                        "endColumns": "58",
+                        "endOffsets": "634"
+                    }
+                },
+                {
+                    "source": "/Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/a90cec56ee0082bd6aae5072a5827f96/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,639,743",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,738,854"
+                    }
+                },
+                {
+                    "source": "/Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-crop-1.0.1.aar/a22017efb0f6281c402f9d98b903f5b5/res/values-large/values-large.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "172",
+                        "endColumns": "47",
+                        "endOffsets": "215"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endColumns": "47",
+                        "endOffsets": "575"
+                    }
+                }
+            ]
+        }
+    ]
+}

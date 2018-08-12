@@ -1,0 +1,1676 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/24b54c539890a67b960ed63d89d04757/AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/3ac76482f795cfc41653b4bc968db7e3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/fa22979e99469c1ba6ac733342f81edc/AndroidManifest.xml:2:1-9:12
+MERGED from [hani.momanii.supernova_emoji_library:supernova-emoji-library:0.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/supernova-emoji-library-0.0.2.aar/36b6c276d536312311cb45fb3a3c3487/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/188a160b49407476a93a07875001b4e5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/b8d9db85ea360d4ec3557837ab329b2b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/45888fe2372ce4ef67826d228d8116d3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/aee7039fb64e195dcde12962e7183bec/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/1edebb5c13b1f4ae2baf00c7a12af083/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/99dacb7bfa732e1c0a1a97f9c9c36110/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/cbbab22ba74b26264d77346886359f56/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/93dd16d0e15ef1e654808b841e09d2b5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/commons-0.9.4.5.aar/90f24016c7f1b9ef2504b178b61b3726/AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/core-0.9.4.5.aar/74deb7d2d5c8f24404dcd955cb701491/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:support-v13:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.0.aar/f5d6f2a79ee15f8986223a28d195376e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.myinnos:AlphabetIndex-Fast-Scroll-RecyclerView:1.0.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AlphabetIndex-Fast-Scroll-RecyclerView-1.0.5.aar/3f0990bdbd46a1419af600cd060bb376/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/a67d976b950687e1c6f3dcfc329b8ffe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/2df568d7751f9518e99188d3f4885035/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/cce45a1056fd9e329b49670f2a495742/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4e8476c857cefb45aa5e937f5415f041/AndroidManifest.xml:2:1-7:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/0f320544f3c51738117548306fff36dd/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/a90cec56ee0082bd6aae5072a5827f96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/769bea0a068e39314a1bf857ed6132af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9b1d94b97149dd4953ba06dd2fde0a3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/88bc8384f74b594f3a2c2612de061c54/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/466d48ad92f9d7e9ee5413a7934c9abd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c6a57125bde58eb61392fe54098e8e45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/f61f7384e10cd63180cfd27b8dc704af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e1dc11d89892cbdd3808d51bc867034f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/728ebf9344544f0c1a75de04eac129f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/6cf599fe01177cb504216cf920e79a87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f1fcccfafeb12dad914eadd39a7bf4f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/6055015c8eb8fb0bd7c6b18bef79540b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c33fea90d1605493b94517d3a6d12afc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.douglasjunior:android-simple-tooltip:0.2.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-simple-tooltip-0.2.2.aar/bba66f96b70632eb4647125cacbceb7f/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/fbfcacba08b19e09eb831ebfe13c2672/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71d861e6e115349d48b0a172098ad885/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/69d2e23fe1a14e77237dccc15651aaed/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/8f92d6907e13ba898bb0aede8e70b104/AndroidManifest.xml:15:1-21:12
+MERGED from [id.zelory:compressor:1.0.4] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/compressor-1.0.4.aar/09cef29a4477e968d3574b9d9bf5c286/AndroidManifest.xml:2:1-12:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/2f51f63463dac1090c3446c545001738/AndroidManifest.xml:2:1-10:12
+MERGED from [com.commonsware.cwac:camera:0.7.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/camera-0.7.0.aar/3b56518b4e66d8cc498e6810040808f6/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.3.aar/bb058e5edefa823dc2781d382fa0244e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.androidmapsextensions:android-maps-extensions:2.2.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-extensions-2.2.0.aar/74e91935f91c73bc2481513b6776cc06/AndroidManifest.xml:2:1-14:12
+MERGED from [com.wang.avi:library:2.1.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/3539c979cfcf016609d4e328a54b8fc0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.clans:fab:1.6.4] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/3245185f78794679439f03699d82fc21/AndroidManifest.xml:2:1-14:12
+MERGED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:2:1-48:12
+MERGED from [com.soundcloud.android:android-crop:1.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-crop-1.0.1.aar/a22017efb0f6281c402f9d98b903f5b5/AndroidManifest.xml:2:1-10:12
+MERGED from [com.fenchtose.nocropper:nocropper:0.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/nocropper-0.2.1.aar/784493366cc9799deec79a1cee45cfea/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.fresco:fresco:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fresco-1.4.0.aar/05c1b3d1a57d3a0e036155c70578126a/AndroidManifest.xml:2:1-9:12
+MERGED from [me.relex:photodraweeview:1.1.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.1.3.aar/aea288556aca588925fc3ee408e95697/AndroidManifest.xml:2:1-10:12
+MERGED from [com.cocosw:bottomsheet:1.3.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/0021ecfaa7efb1b21bc1752ad6def976/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amitshekhar.android:glide-bitmap-pool:0.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-bitmap-pool-0.0.1.aar/d343b404f0b5d6196aea4eee47cc0e9e/AndroidManifest.xml:18:1-33:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/77acaa47d81cda09796c9b0d8285a3ea/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/f099d5d537fa4e3f9fce99d1e503bf8b/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/23e26eeb95bcf7e18c19bd3419d5156e/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/89e262ef7490fb2e8d1fe4161d1445ee/AndroidManifest.xml:22:1-33:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/d953a4e5b80f0437bcbe6b9e9ef7f382/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0ab0a87af8ccdafb4b62147434e90e6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4cfe449a95d166c1199bdc4cef3ed89a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/41a0cf3303cf969a255a17b2240c0bb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/c42e9c542777f721d3626e213d1c35bd/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/7abc5bac820d05bdaa7d20f561f3d927/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/27bf0d635937610e8d95330e2630b86d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/2c6b75e6637044bb1d3a1143418889c3/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/8028de4cb47fd54ed1ba8ba1470669c5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/d27883fc1211f7f32048b32f486b66f8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.facebook.fresco:drawee:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/drawee-1.4.0.aar/0ac1d2f8ab7c875324883d184f8da50d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.4.0.aar/8dfb457c4b02284afc228983511068cf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.4.0.aar/c6ea7c43be644b80ac7c64b9e828bfea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fbcore-1.4.0.aar/f317ab32ee2442a4f6d95e15316bd2b0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1f6f4a8c16ed9007820a8cc8cdfaa248/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/72259da2048a30f2cb4f9e2671e7c4f5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a5d12cfa955dcbb676c477c69400bf4f/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.core:runtime:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e27988ac7d32a7a456bdbcb801d271b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/ded917ad5ae904be4fb91c6e29dec2c8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8ab7f3b75265c55883b67fc5bb4be3ac/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f379902791cf2041ee9cd02fdc77576a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c75edf78fd17fe436b2c777975c548b2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/ade1d8929cb49126b919b665a454f846/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/95ceb7cf642485d78ede790684364305/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/3c67677994dc8e020a316b157be51670/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/a5d2ba833a34021b65225e2dc87751ed/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/4d475d8213d2e8ed6d49224a0b4a5ea5/AndroidManifest.xml:2:1-6:12
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+	package
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:4:5-26
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:1-496:12
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:5:5-45
+uses-sdk
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:7:5-68
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:7:5-68
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:7:5-68
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/24b54c539890a67b960ed63d89d04757/AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/24b54c539890a67b960ed63d89d04757/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/3ac76482f795cfc41653b4bc968db7e3/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/3ac76482f795cfc41653b4bc968db7e3/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/fa22979e99469c1ba6ac733342f81edc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/fa22979e99469c1ba6ac733342f81edc/AndroidManifest.xml:5:5-44
+MERGED from [hani.momanii.supernova_emoji_library:supernova-emoji-library:0.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/supernova-emoji-library-0.0.2.aar/36b6c276d536312311cb45fb3a3c3487/AndroidManifest.xml:6:5-8:41
+MERGED from [hani.momanii.supernova_emoji_library:supernova-emoji-library:0.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/supernova-emoji-library-0.0.2.aar/36b6c276d536312311cb45fb3a3c3487/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/188a160b49407476a93a07875001b4e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/188a160b49407476a93a07875001b4e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/b8d9db85ea360d4ec3557837ab329b2b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/b8d9db85ea360d4ec3557837ab329b2b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/45888fe2372ce4ef67826d228d8116d3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/45888fe2372ce4ef67826d228d8116d3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/aee7039fb64e195dcde12962e7183bec/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/aee7039fb64e195dcde12962e7183bec/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/1edebb5c13b1f4ae2baf00c7a12af083/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/1edebb5c13b1f4ae2baf00c7a12af083/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/99dacb7bfa732e1c0a1a97f9c9c36110/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/99dacb7bfa732e1c0a1a97f9c9c36110/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/cbbab22ba74b26264d77346886359f56/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/cbbab22ba74b26264d77346886359f56/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/93dd16d0e15ef1e654808b841e09d2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/93dd16d0e15ef1e654808b841e09d2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/commons-0.9.4.5.aar/90f24016c7f1b9ef2504b178b61b3726/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/commons-0.9.4.5.aar/90f24016c7f1b9ef2504b178b61b3726/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/core-0.9.4.5.aar/74deb7d2d5c8f24404dcd955cb701491/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/core-0.9.4.5.aar/74deb7d2d5c8f24404dcd955cb701491/AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:support-v13:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.0.aar/f5d6f2a79ee15f8986223a28d195376e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.0.aar/f5d6f2a79ee15f8986223a28d195376e/AndroidManifest.xml:20:5-44
+MERGED from [com.github.myinnos:AlphabetIndex-Fast-Scroll-RecyclerView:1.0.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AlphabetIndex-Fast-Scroll-RecyclerView-1.0.5.aar/3f0990bdbd46a1419af600cd060bb376/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.myinnos:AlphabetIndex-Fast-Scroll-RecyclerView:1.0.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AlphabetIndex-Fast-Scroll-RecyclerView-1.0.5.aar/3f0990bdbd46a1419af600cd060bb376/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/a67d976b950687e1c6f3dcfc329b8ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/a67d976b950687e1c6f3dcfc329b8ffe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/2df568d7751f9518e99188d3f4885035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/2df568d7751f9518e99188d3f4885035/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/cce45a1056fd9e329b49670f2a495742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/cce45a1056fd9e329b49670f2a495742/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4e8476c857cefb45aa5e937f5415f041/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4e8476c857cefb45aa5e937f5415f041/AndroidManifest.xml:5:5-43
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/0f320544f3c51738117548306fff36dd/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/library-1.4.1.aar/0f320544f3c51738117548306fff36dd/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/a90cec56ee0082bd6aae5072a5827f96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/a90cec56ee0082bd6aae5072a5827f96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/769bea0a068e39314a1bf857ed6132af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/769bea0a068e39314a1bf857ed6132af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9b1d94b97149dd4953ba06dd2fde0a3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9b1d94b97149dd4953ba06dd2fde0a3a/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/88bc8384f74b594f3a2c2612de061c54/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/88bc8384f74b594f3a2c2612de061c54/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/466d48ad92f9d7e9ee5413a7934c9abd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/466d48ad92f9d7e9ee5413a7934c9abd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c6a57125bde58eb61392fe54098e8e45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c6a57125bde58eb61392fe54098e8e45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/f61f7384e10cd63180cfd27b8dc704af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/f61f7384e10cd63180cfd27b8dc704af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e1dc11d89892cbdd3808d51bc867034f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e1dc11d89892cbdd3808d51bc867034f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/728ebf9344544f0c1a75de04eac129f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/728ebf9344544f0c1a75de04eac129f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/6cf599fe01177cb504216cf920e79a87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/6cf599fe01177cb504216cf920e79a87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f1fcccfafeb12dad914eadd39a7bf4f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f1fcccfafeb12dad914eadd39a7bf4f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/6055015c8eb8fb0bd7c6b18bef79540b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/6055015c8eb8fb0bd7c6b18bef79540b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c33fea90d1605493b94517d3a6d12afc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c33fea90d1605493b94517d3a6d12afc/AndroidManifest.xml:20:5-44
+MERGED from [com.github.douglasjunior:android-simple-tooltip:0.2.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-simple-tooltip-0.2.2.aar/bba66f96b70632eb4647125cacbceb7f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.douglasjunior:android-simple-tooltip:0.2.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-simple-tooltip-0.2.2.aar/bba66f96b70632eb4647125cacbceb7f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/fbfcacba08b19e09eb831ebfe13c2672/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/fbfcacba08b19e09eb831ebfe13c2672/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71d861e6e115349d48b0a172098ad885/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71d861e6e115349d48b0a172098ad885/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/69d2e23fe1a14e77237dccc15651aaed/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/69d2e23fe1a14e77237dccc15651aaed/AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/8f92d6907e13ba898bb0aede8e70b104/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/8f92d6907e13ba898bb0aede8e70b104/AndroidManifest.xml:19:5-43
+MERGED from [id.zelory:compressor:1.0.4] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/compressor-1.0.4.aar/09cef29a4477e968d3574b9d9bf5c286/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:1.0.4] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/compressor-1.0.4.aar/09cef29a4477e968d3574b9d9bf5c286/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/2f51f63463dac1090c3446c545001738/AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/2f51f63463dac1090c3446c545001738/AndroidManifest.xml:6:5-43
+MERGED from [com.commonsware.cwac:camera:0.7.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/camera-0.7.0.aar/3b56518b4e66d8cc498e6810040808f6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.commonsware.cwac:camera:0.7.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/camera-0.7.0.aar/3b56518b4e66d8cc498e6810040808f6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.3.aar/bb058e5edefa823dc2781d382fa0244e/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.3.aar/bb058e5edefa823dc2781d382fa0244e/AndroidManifest.xml:5:5-43
+MERGED from [com.androidmapsextensions:android-maps-extensions:2.2.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-extensions-2.2.0.aar/74e91935f91c73bc2481513b6776cc06/AndroidManifest.xml:8:5-10:87
+MERGED from [com.androidmapsextensions:android-maps-extensions:2.2.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-extensions-2.2.0.aar/74e91935f91c73bc2481513b6776cc06/AndroidManifest.xml:8:5-10:87
+MERGED from [com.wang.avi:library:2.1.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/3539c979cfcf016609d4e328a54b8fc0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/3539c979cfcf016609d4e328a54b8fc0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.clans:fab:1.6.4] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/3245185f78794679439f03699d82fc21/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/3245185f78794679439f03699d82fc21/AndroidManifest.xml:8:5-10:41
+MERGED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:7:5-9:41
+MERGED from [com.soundcloud.android:android-crop:1.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-crop-1.0.1.aar/a22017efb0f6281c402f9d98b903f5b5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.soundcloud.android:android-crop:1.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-crop-1.0.1.aar/a22017efb0f6281c402f9d98b903f5b5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.fenchtose.nocropper:nocropper:0.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/nocropper-0.2.1.aar/784493366cc9799deec79a1cee45cfea/AndroidManifest.xml:7:5-9:41
+MERGED from [com.fenchtose.nocropper:nocropper:0.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/nocropper-0.2.1.aar/784493366cc9799deec79a1cee45cfea/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fresco-1.4.0.aar/05c1b3d1a57d3a0e036155c70578126a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fresco-1.4.0.aar/05c1b3d1a57d3a0e036155c70578126a/AndroidManifest.xml:5:5-7:41
+MERGED from [me.relex:photodraweeview:1.1.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.1.3.aar/aea288556aca588925fc3ee408e95697/AndroidManifest.xml:8:5-44
+MERGED from [me.relex:photodraweeview:1.1.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.1.3.aar/aea288556aca588925fc3ee408e95697/AndroidManifest.xml:8:5-44
+MERGED from [com.cocosw:bottomsheet:1.3.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/0021ecfaa7efb1b21bc1752ad6def976/AndroidManifest.xml:5:5-7:41
+MERGED from [com.cocosw:bottomsheet:1.3.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/0021ecfaa7efb1b21bc1752ad6def976/AndroidManifest.xml:5:5-7:41
+MERGED from [com.amitshekhar.android:glide-bitmap-pool:0.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-bitmap-pool-0.0.1.aar/d343b404f0b5d6196aea4eee47cc0e9e/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:glide-bitmap-pool:0.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-bitmap-pool-0.0.1.aar/d343b404f0b5d6196aea4eee47cc0e9e/AndroidManifest.xml:23:5-25:41
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/77acaa47d81cda09796c9b0d8285a3ea/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/77acaa47d81cda09796c9b0d8285a3ea/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/f099d5d537fa4e3f9fce99d1e503bf8b/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/f099d5d537fa4e3f9fce99d1e503bf8b/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/23e26eeb95bcf7e18c19bd3419d5156e/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/23e26eeb95bcf7e18c19bd3419d5156e/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/89e262ef7490fb2e8d1fe4161d1445ee/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/89e262ef7490fb2e8d1fe4161d1445ee/AndroidManifest.xml:27:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/d953a4e5b80f0437bcbe6b9e9ef7f382/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/d953a4e5b80f0437bcbe6b9e9ef7f382/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0ab0a87af8ccdafb4b62147434e90e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a0ab0a87af8ccdafb4b62147434e90e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4cfe449a95d166c1199bdc4cef3ed89a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4cfe449a95d166c1199bdc4cef3ed89a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/41a0cf3303cf969a255a17b2240c0bb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/41a0cf3303cf969a255a17b2240c0bb0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/c42e9c542777f721d3626e213d1c35bd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/c42e9c542777f721d3626e213d1c35bd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/7abc5bac820d05bdaa7d20f561f3d927/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/7abc5bac820d05bdaa7d20f561f3d927/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/27bf0d635937610e8d95330e2630b86d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/27bf0d635937610e8d95330e2630b86d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/2c6b75e6637044bb1d3a1143418889c3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/2c6b75e6637044bb1d3a1143418889c3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/8028de4cb47fd54ed1ba8ba1470669c5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/8028de4cb47fd54ed1ba8ba1470669c5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/d27883fc1211f7f32048b32f486b66f8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/d27883fc1211f7f32048b32f486b66f8/AndroidManifest.xml:4:5-43
+MERGED from [com.facebook.fresco:drawee:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/drawee-1.4.0.aar/0ac1d2f8ab7c875324883d184f8da50d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/drawee-1.4.0.aar/0ac1d2f8ab7c875324883d184f8da50d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.4.0.aar/8dfb457c4b02284afc228983511068cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.4.0.aar/8dfb457c4b02284afc228983511068cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.4.0.aar/c6ea7c43be644b80ac7c64b9e828bfea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.4.0.aar/c6ea7c43be644b80ac7c64b9e828bfea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fbcore-1.4.0.aar/f317ab32ee2442a4f6d95e15316bd2b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.4.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fbcore-1.4.0.aar/f317ab32ee2442a4f6d95e15316bd2b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1f6f4a8c16ed9007820a8cc8cdfaa248/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1f6f4a8c16ed9007820a8cc8cdfaa248/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/72259da2048a30f2cb4f9e2671e7c4f5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/72259da2048a30f2cb4f9e2671e7c4f5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a5d12cfa955dcbb676c477c69400bf4f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a5d12cfa955dcbb676c477c69400bf4f/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.core:runtime:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e27988ac7d32a7a456bdbcb801d271b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e27988ac7d32a7a456bdbcb801d271b1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/ded917ad5ae904be4fb91c6e29dec2c8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/ded917ad5ae904be4fb91c6e29dec2c8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8ab7f3b75265c55883b67fc5bb4be3ac/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8ab7f3b75265c55883b67fc5bb4be3ac/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f379902791cf2041ee9cd02fdc77576a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f379902791cf2041ee9cd02fdc77576a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c75edf78fd17fe436b2c777975c548b2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c75edf78fd17fe436b2c777975c548b2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/ade1d8929cb49126b919b665a454f846/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/ade1d8929cb49126b919b665a454f846/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/95ceb7cf642485d78ede790684364305/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/95ceb7cf642485d78ede790684364305/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/3c67677994dc8e020a316b157be51670/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/3c67677994dc8e020a316b157be51670/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/a5d2ba833a34021b65225e2dc87751ed/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/a5d2ba833a34021b65225e2dc87751ed/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/4d475d8213d2e8ed6d49224a0b4a5ea5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/4d475d8213d2e8ed6d49224a0b4a5ea5/AndroidManifest.xml:4:5-43
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:7:5-68
+INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:7:5-68
+	tools:overrideLibrary
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:7:15-65
+	android:targetSdkVersion
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:7:5-68
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:7:5-68
+		INJECTED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml
+permission#com.myscrap.permission.MAPS_RECEIVE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:9:5-11:47
+	android:protectionLevel
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:10:9-59
+supports-screens
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:13:5-19:40
+	android:largeScreens
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:18:9-36
+	android:normalScreens
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:19:9-37
+	android:resizeable
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:17:9-34
+	android:anyDensity
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:14:9-34
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:26:5-71
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:26:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:27:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:28:5-72
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:28:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:29:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:30:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:30:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:31:5-76
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:31:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:32:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/3ac76482f795cfc41653b4bc968db7e3/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/3ac76482f795cfc41653b4bc968db7e3/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/77acaa47d81cda09796c9b0d8285a3ea/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/77acaa47d81cda09796c9b0d8285a3ea/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/f099d5d537fa4e3f9fce99d1e503bf8b/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/f099d5d537fa4e3f9fce99d1e503bf8b/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/23e26eeb95bcf7e18c19bd3419d5156e/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/23e26eeb95bcf7e18c19bd3419d5156e/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/89e262ef7490fb2e8d1fe4161d1445ee/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/89e262ef7490fb2e8d1fe4161d1445ee/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:32:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:33:5-81
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:12:5-81
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:33:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:34:5-80
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:11:5-80
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:34:22-77
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:35:22-85
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:36:5-90
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:36:22-87
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:37:5-81
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:37:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:38:22-65
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:39:5-41:47
+	tools:ignore
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:41:9-44
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:40:9-62
+uses-permission#android.permission.GET_TASKS
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:42:5-68
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:42:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:43:5-79
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:43:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:44:5-81
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:44:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:45:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:45:22-65
+uses-permission#android.permission.CAMERA
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:46:5-65
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:13:5-65
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:46:22-62
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:47:5-75
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:47:22-72
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:49:5-95
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:49:22-92
+uses-feature#android.hardware.camera
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:51:5-53:35
+	android:required
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:53:9-32
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:52:9-47
+uses-feature#android.hardware.camera.front
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:54:5-56:36
+	android:required
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:56:9-33
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:55:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:57:5-59:36
+	android:required
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:59:9-33
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:58:9-57
+uses-feature#android.hardware.telephony
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:60:5-62:36
+	android:required
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:62:9-33
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:61:9-50
+uses-feature#0x00020000
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:63:5-65:35
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:64:9-41
+	android:required
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:65:9-32
+application
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:67:5-494:19
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/24b54c539890a67b960ed63d89d04757/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/24b54c539890a67b960ed63d89d04757/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/3ac76482f795cfc41653b4bc968db7e3/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/3ac76482f795cfc41653b4bc968db7e3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/fa22979e99469c1ba6ac733342f81edc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/fa22979e99469c1ba6ac733342f81edc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/188a160b49407476a93a07875001b4e5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/188a160b49407476a93a07875001b4e5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/b8d9db85ea360d4ec3557837ab329b2b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/b8d9db85ea360d4ec3557837ab329b2b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/85af2c602d71bc401613861401fce50a/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/1edebb5c13b1f4ae2baf00c7a12af083/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/1edebb5c13b1f4ae2baf00c7a12af083/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/228d478df6859b4776bac1fe5f80eb53/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/99dacb7bfa732e1c0a1a97f9c9c36110/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/99dacb7bfa732e1c0a1a97f9c9c36110/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/cbbab22ba74b26264d77346886359f56/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/cbbab22ba74b26264d77346886359f56/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/93dd16d0e15ef1e654808b841e09d2b5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/93dd16d0e15ef1e654808b841e09d2b5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/commons-0.9.4.5.aar/90f24016c7f1b9ef2504b178b61b3726/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/commons-0.9.4.5.aar/90f24016c7f1b9ef2504b178b61b3726/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/core-0.9.4.5.aar/74deb7d2d5c8f24404dcd955cb701491/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/core-0.9.4.5.aar/74deb7d2d5c8f24404dcd955cb701491/AndroidManifest.xml:13:5-20
+MERGED from [com.github.myinnos:AlphabetIndex-Fast-Scroll-RecyclerView:1.0.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AlphabetIndex-Fast-Scroll-RecyclerView-1.0.5.aar/3f0990bdbd46a1419af600cd060bb376/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.myinnos:AlphabetIndex-Fast-Scroll-RecyclerView:1.0.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AlphabetIndex-Fast-Scroll-RecyclerView-1.0.5.aar/3f0990bdbd46a1419af600cd060bb376/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:15:5-28:19
+MERGED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:15:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/88bc8384f74b594f3a2c2612de061c54/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/88bc8384f74b594f3a2c2612de061c54/AndroidManifest.xml:11:5-20
+MERGED from [com.github.douglasjunior:android-simple-tooltip:0.2.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-simple-tooltip-0.2.2.aar/bba66f96b70632eb4647125cacbceb7f/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.douglasjunior:android-simple-tooltip:0.2.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-simple-tooltip-0.2.2.aar/bba66f96b70632eb4647125cacbceb7f/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/fbfcacba08b19e09eb831ebfe13c2672/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/fbfcacba08b19e09eb831ebfe13c2672/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71d861e6e115349d48b0a172098ad885/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/71d861e6e115349d48b0a172098ad885/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/2f51f63463dac1090c3446c545001738/AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/timber-4.5.1.aar/2f51f63463dac1090c3446c545001738/AndroidManifest.xml:8:5-20
+MERGED from [com.commonsware.cwac:camera:0.7.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/camera-0.7.0.aar/3b56518b4e66d8cc498e6810040808f6/AndroidManifest.xml:11:5-20
+MERGED from [com.commonsware.cwac:camera:0.7.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/camera-0.7.0.aar/3b56518b4e66d8cc498e6810040808f6/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.3.aar/bb058e5edefa823dc2781d382fa0244e/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.3.aar/bb058e5edefa823dc2781d382fa0244e/AndroidManifest.xml:7:5-11:19
+MERGED from [com.androidmapsextensions:android-maps-extensions:2.2.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-extensions-2.2.0.aar/74e91935f91c73bc2481513b6776cc06/AndroidManifest.xml:12:5-20
+MERGED from [com.androidmapsextensions:android-maps-extensions:2.2.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-extensions-2.2.0.aar/74e91935f91c73bc2481513b6776cc06/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/3245185f78794679439f03699d82fc21/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/3245185f78794679439f03699d82fc21/AndroidManifest.xml:12:5-20
+MERGED from [com.fenchtose.nocropper:nocropper:0.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/nocropper-0.2.1.aar/784493366cc9799deec79a1cee45cfea/AndroidManifest.xml:11:5-15:19
+MERGED from [com.fenchtose.nocropper:nocropper:0.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/nocropper-0.2.1.aar/784493366cc9799deec79a1cee45cfea/AndroidManifest.xml:11:5-15:19
+MERGED from [com.cocosw:bottomsheet:1.3.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/0021ecfaa7efb1b21bc1752ad6def976/AndroidManifest.xml:9:5-20
+MERGED from [com.cocosw:bottomsheet:1.3.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/bottomsheet-1.3.1.aar/0021ecfaa7efb1b21bc1752ad6def976/AndroidManifest.xml:9:5-20
+MERGED from [com.amitshekhar.android:glide-bitmap-pool:0.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-bitmap-pool-0.0.1.aar/d343b404f0b5d6196aea4eee47cc0e9e/AndroidManifest.xml:27:5-31:19
+MERGED from [com.amitshekhar.android:glide-bitmap-pool:0.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-bitmap-pool-0.0.1.aar/d343b404f0b5d6196aea4eee47cc0e9e/AndroidManifest.xml:27:5-31:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/77acaa47d81cda09796c9b0d8285a3ea/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/77acaa47d81cda09796c9b0d8285a3ea/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/f099d5d537fa4e3f9fce99d1e503bf8b/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/f099d5d537fa4e3f9fce99d1e503bf8b/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/23e26eeb95bcf7e18c19bd3419d5156e/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/23e26eeb95bcf7e18c19bd3419d5156e/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/89e262ef7490fb2e8d1fe4161d1445ee/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/89e262ef7490fb2e8d1fe4161d1445ee/AndroidManifest.xml:31:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/d953a4e5b80f0437bcbe6b9e9ef7f382/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/d953a4e5b80f0437bcbe6b9e9ef7f382/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/c42e9c542777f721d3626e213d1c35bd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/c42e9c542777f721d3626e213d1c35bd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/7abc5bac820d05bdaa7d20f561f3d927/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/7abc5bac820d05bdaa7d20f561f3d927/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/27bf0d635937610e8d95330e2630b86d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/27bf0d635937610e8d95330e2630b86d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/2c6b75e6637044bb1d3a1143418889c3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/2c6b75e6637044bb1d3a1143418889c3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/8028de4cb47fd54ed1ba8ba1470669c5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/8028de4cb47fd54ed1ba8ba1470669c5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/d27883fc1211f7f32048b32f486b66f8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/d27883fc1211f7f32048b32f486b66f8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1f6f4a8c16ed9007820a8cc8cdfaa248/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/1f6f4a8c16ed9007820a8cc8cdfaa248/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/72259da2048a30f2cb4f9e2671e7c4f5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/72259da2048a30f2cb4f9e2671e7c4f5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a5d12cfa955dcbb676c477c69400bf4f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a5d12cfa955dcbb676c477c69400bf4f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/ded917ad5ae904be4fb91c6e29dec2c8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/ded917ad5ae904be4fb91c6e29dec2c8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8ab7f3b75265c55883b67fc5bb4be3ac/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8ab7f3b75265c55883b67fc5bb4be3ac/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f379902791cf2041ee9cd02fdc77576a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/f379902791cf2041ee9cd02fdc77576a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c75edf78fd17fe436b2c777975c548b2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c75edf78fd17fe436b2c777975c548b2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/ade1d8929cb49126b919b665a454f846/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/ade1d8929cb49126b919b665a454f846/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/95ceb7cf642485d78ede790684364305/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/95ceb7cf642485d78ede790684364305/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/3c67677994dc8e020a316b157be51670/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/3c67677994dc8e020a316b157be51670/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/a5d2ba833a34021b65225e2dc87751ed/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/a5d2ba833a34021b65225e2dc87751ed/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/4d475d8213d2e8ed6d49224a0b4a5ea5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/4d475d8213d2e8ed6d49224a0b4a5ea5/AndroidManifest.xml:5:5-20
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:72:9-32
+	android:roundIcon
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:77:9-48
+	android:largeHeap
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:76:9-33
+	android:icon
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:74:9-43
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:78:9-45
+	android:supportsRtl
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:79:9-35
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:75:9-41
+	android:allowClearUserData
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:71:9-42
+	android:hardwareAccelerated
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:73:9-44
+	android:vmSafeMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:81:9-35
+	android:allowBackup
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:70:9-36
+		REJECTED from [com.github.myinnos:AlphabetIndex-Fast-Scroll-RecyclerView:1.0.5] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AlphabetIndex-Fast-Scroll-RecyclerView-1.0.5.aar/3f0990bdbd46a1419af600cd060bb376/AndroidManifest.xml:12:9-35
+		REJECTED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:16:9-35
+		REJECTED from [com.fenchtose.nocropper:nocropper:0.2.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/nocropper-0.2.1.aar/784493366cc9799deec79a1cee45cfea/AndroidManifest.xml:12:9-35
+		REJECTED from [com.amitshekhar.android:glide-bitmap-pool:0.0.1] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/glide-bitmap-pool-0.0.1.aar/d343b404f0b5d6196aea4eee47cc0e9e/AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:80:9-40
+	tools:replace
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:82:9-44
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:69:9-50
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:83:9-85:54
+	android:resource
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:85:13-51
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:84:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:86:9-88:53
+	android:resource
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:88:13-50
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:87:13-84
+provider#android.support.v4.content.FileProvider
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:90:9-98:20
+	android:grantUriPermissions
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:94:13-47
+	android:authorities
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:92:13-55
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:93:13-37
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:91:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:95:13-97:58
+	android:resource
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:97:17-55
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:96:17-67
+provider#com.myscrap.customphoto.cropoverlay.utils.InternalStorageContentProvider
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:99:9-103:40
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:102:13-35
+	android:authorities
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:101:13-107
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:103:13-37
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:100:13-89
+activity#com.myscrap.SplashActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:105:9-135:20
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:109:13-49
+	android:launchMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:108:13-48
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:107:13-36
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:110:13-80
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:106:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:111:13-115:29
+action#android.intent.action.MAIN
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:112:17-69
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:112:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:114:17-77
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:114:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:116:13-134:29
+	android:autoVerify
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:116:28-53
+action#android.intent.action.VIEW
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:117:17-69
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:117:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:119:17-76
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:119:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:120:17-78
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:120:27-75
+data
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:122:17-125:46
+	android:host
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:123:21-47
+	android:scheme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:125:21-43
+	android:pathPrefix
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:124:21-43
+activity#com.myscrap.HomeActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:136:9-141:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:140:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:139:13-29
+	android:hardwareAccelerated
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:138:13-47
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:141:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:137:13-41
+activity#com.myscrap.LoginActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:142:9-147:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:145:13-45
+	android:hardwareAccelerated
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:144:13-48
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:147:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:143:13-42
+activity#com.myscrap.SignUpActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:148:9-153:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:152:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:151:13-45
+	android:hardwareAccelerated
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:150:13-48
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:153:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:149:13-43
+activity#com.myscrap.ForgotPasswordActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:154:9-158:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:157:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:156:13-29
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:158:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:155:13-51
+activity#com.myscrap.LikeActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:159:9-163:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:162:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:161:13-56
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:163:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:160:13-41
+activity#com.myscrap.CommentActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:164:9-168:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:167:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:166:13-59
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:168:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:165:13-44
+activity#com.myscrap.MapViewActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:169:9-175:57
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:173:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:171:13-60
+	android:launchMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:172:13-48
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:175:13-54
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:174:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:170:13-44
+activity#com.myscrap.MainChatRoomActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:176:9-180:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:179:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:178:13-66
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:180:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:177:13-49
+activity#com.myscrap.ChatRoomActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:181:9-185:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:184:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:183:13-66
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:185:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:182:13-45
+activity#com.myscrap.StatusActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:186:9-191:57
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:189:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:188:13-58
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:191:13-54
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:190:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:187:13-43
+activity#com.myscrap.NewsViewActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:192:9-197:57
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:195:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:194:13-61
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:197:13-54
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:196:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:193:13-45
+activity#com.myscrap.UserProfileActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:198:9-202:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:201:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:200:13-64
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:202:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:199:13-48
+activity#com.myscrap.UserFriendProfileActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:203:9-207:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:206:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:205:13-64
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:207:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:204:13-54
+activity#com.myscrap.EditProfileActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:208:9-213:55
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:211:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:210:13-64
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:213:13-52
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:212:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:209:13-48
+activity#com.myscrap.MultiPhotoSelectActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:214:9-219:55
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:217:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:216:13-29
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:219:13-52
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:218:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:215:13-53
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:220:9-222:52
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:222:13-49
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:221:13-73
+activity#com.myscrap.SearchViewActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:223:9-227:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:226:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:225:13-63
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:227:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:224:13-47
+activity#com.myscrap.ResetPasswordActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:228:9-232:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:231:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:230:13-43
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:232:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:229:13-50
+activity#com.myscrap.SingleNotificationActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:233:9-237:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:236:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:235:13-71
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:237:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:234:13-55
+activity#com.myscrap.CompanyProfileActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:238:9-242:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:241:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:240:13-67
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:242:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:239:13-51
+activity#com.myscrap.InterestActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:243:9-247:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:246:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:245:13-60
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:247:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:244:13-45
+activity#com.myscrap.CompanyInterestActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:248:9-252:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:251:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:250:13-68
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:252:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:249:13-52
+activity#com.myscrap.EmployeeActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:253:9-257:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:256:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:255:13-60
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:257:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:254:13-45
+activity#com.myscrap.CompanyEditProfileActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:258:9-262:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:261:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:260:13-72
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:262:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:259:13-55
+activity#com.myscrap.CompanyWorkingHoursActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:263:9-267:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:266:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:265:13-73
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:267:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:264:13-56
+activity#com.myscrap.DetailedPostActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:268:9-273:57
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:271:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:270:13-65
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:273:13-54
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:272:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:269:13-49
+activity#com.myscrap.ImageUploadActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:274:9-278:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:277:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:276:13-64
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:278:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:275:13-48
+activity#com.myscrap.MultipleImageUploadActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:279:9-283:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:282:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:281:13-64
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:283:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:280:13-56
+activity#com.myscrap.ProfileUploadActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:284:9-287:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:286:13-49
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:287:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:285:13-50
+activity#com.myscrap.CompanyProfileUploadActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:288:9-291:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:290:13-49
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:291:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:289:13-57
+activity#com.myscrap.EmployeeRequestActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:292:9-296:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:295:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:294:13-68
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:296:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:293:13-52
+activity#com.myscrap.CompanyUpdateMarkerLocationActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:297:9-301:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:300:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:299:13-82
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:301:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:298:13-64
+activity#com.myscrap.GalleryActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:302:9-306:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:305:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:304:13-59
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:306:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:303:13-44
+activity#com.myscrap.TipsActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:307:9-311:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:310:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:309:13-56
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:311:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:308:13-41
+activity#com.myscrap.TermsAndConditionsActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:312:9-316:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:315:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:314:13-57
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:316:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:313:13-55
+activity#com.myscrap.PrivacyPolicyActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:317:9-321:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:320:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:319:13-59
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:321:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:318:13-50
+activity#com.myscrap.ChangePasswordActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:322:9-327:70
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:325:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:324:13-67
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:327:13-67
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:326:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:323:13-51
+activity#com.myscrap.CompanyVisitorsActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:328:9-332:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:331:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:330:13-68
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:332:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:329:13-52
+activity#com.myscrap.CreateNewsActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:333:9-338:70
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:336:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:335:13-63
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:338:13-67
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:337:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:334:13-47
+activity#com.myscrap.GuestListActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:339:9-343:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:342:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:341:13-39
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:343:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:340:13-46
+activity#com.myscrap.EventActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:344:9-348:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:347:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:346:13-57
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:348:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:345:13-42
+activity#com.myscrap.EventCreateActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:349:9-354:70
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:352:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:351:13-29
+	android:windowSoftInputMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:354:13-67
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:353:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:350:13-48
+activity#com.myscrap.EventDetailActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:355:9-359:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:358:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:357:13-64
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:359:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:356:13-48
+activity#com.myscrap.EventInviteActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:360:9-364:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:363:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:362:13-64
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:364:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:361:13-48
+activity#com.myscrap.PhotosActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:365:9-369:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:368:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:367:13-58
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:369:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:366:13-43
+activity#com.myscrap.ActiveListActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:370:9-374:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:373:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:372:13-63
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:374:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:371:13-47
+activity#com.myscrap.NotificationActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:375:9-379:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:378:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:377:13-64
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:379:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:376:13-49
+activity#com.myscrap.activity.XMPPChatRoomActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:380:9-386:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:385:13-49
+	android:parentActivityName
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:384:13-68
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:382:13-66
+	android:launchMode
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:383:13-43
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:386:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:381:13-58
+activity#com.myscrap.activity.XMPPChatContactActivity
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:387:9-391:59
+	android:screenOrientation
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:390:13-49
+	android:label
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:389:13-66
+	android:theme
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:391:13-56
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:388:13-61
+service#com.myscrap.gcm.MyGcmPushReceiver
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:393:9-402:19
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:395:13-35
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:396:13-36
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:394:13-50
+intent-filter#com.google.firebase.MESSAGING_EVENT+com.myscrap.myscrap.app.AppController
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:397:13-401:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:398:17-78
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:398:25-75
+category#com.myscrap.myscrap.app.AppController
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:400:17-82
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:400:27-79
+service#com.myscrap.gcm.MyInstanceIDListenerService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:403:9-409:19
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:405:13-37
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:404:13-60
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:406:13-408:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:407:17-80
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:407:25-77
+service#com.myscrap.service.DeviceModelService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:410:9-63
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:410:18-60
+service#com.myscrap.service.MarkerListFetchService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:411:9-413:38
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:413:13-35
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:412:13-59
+service#com.myscrap.service.LocationUpdaterService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:414:9-417:40
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:416:13-35
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:417:13-37
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:415:13-59
+service#com.myscrap.service.MessageService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:418:9-420:38
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:420:13-35
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:419:13-51
+service#com.myscrap.service.ActiveUsersUpdaterService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:421:9-423:38
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:423:13-35
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:422:13-62
+service#com.myscrap.service.OnlineNotifierService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:424:9-426:38
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:426:13-35
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:425:13-58
+service#com.myscrap.service.KeepAliveService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:427:9-429:38
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:429:13-35
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:428:13-53
+service#com.myscrap.service.FetchAddressIntentService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:430:9-433:40
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:432:13-35
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:433:13-37
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:431:13-62
+service#com.myscrap.xmpp.RoosterConnectionService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:434:9-444:19
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:436:13-35
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:435:13-58
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.DEFAULT
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:437:13-443:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:438:17-79
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:438:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:442:17-82
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:442:25-79
+receiver#com.myscrap.service.Alarm
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:446:9-448:41
+	android:process
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:448:13-38
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:447:13-42
+receiver#com.myscrap.service.BootReceiver
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:449:9-455:20
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:451:13-35
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:450:13-49
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:452:13-454:29
+meta-data#com.google.android.gms.version
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:457:9-459:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/93dd16d0e15ef1e654808b841e09d2b5/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/93dd16d0e15ef1e654808b841e09d2b5/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.3.aar/bb058e5edefa823dc2781d382fa0244e/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.3.aar/bb058e5edefa823dc2781d382fa0244e/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:459:13-66
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:458:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:460:9-462:54
+	android:value
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:462:13-51
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:461:13-58
+meta-data#io.fabric.ApiKey
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:463:9-465:72
+	android:value
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:465:13-69
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:464:13-44
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:467:9-473:20
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:30:9-34:20
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:469:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:468:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:470:13-472:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:471:17-94
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:471:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:475:9-478:40
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:36:9-39:40
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:477:13-35
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:478:13-37
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:476:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:484:9-490:20
+	android:exported
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:486:13-36
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:485:13-85
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:487:13-489:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:488:17-79
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:488:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:492:9-92
+	android:name
+		ADDED from /Data/Workspace/Android/Android MyScrap/app/src/main/AndroidManifest.xml:492:18-89
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/61057e23a3fb4fb93b022eb175f18fd9/AndroidManifest.xml:31:28-51
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/0138b2f6f32e8ea302697881cbefe22e/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/2e4c9f27e93e4a794703b60f6440f4bd/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/0271e9e3019581ae48013da350fcc066/AndroidManifest.xml:34:13-89
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/3a0815b11926f2b4be6af4a1ee27a19e/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/56d216df259b27761d60d59a2dfc74c9/AndroidManifest.xml:24:13-79
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:34:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/d0434d531ed3435e0d0b331e916d0a4c/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/fa8039ffecc22052f7e435d2053b71ed/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:29:9-63
+permission#com.myscrap.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:32:22-76
+uses-permission#com.myscrap.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:39:13-43:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.myscrap
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:42:27-58
+category#com.myscrap
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/48455711287807fa09699046911d6c12/AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/50680061434cc90a2a55b23c1533c200/AndroidManifest.xml:9:13-77
+activity#in.myinnos.awesomeimagepicker.activities.AlbumSelectActivity
+ADDED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:20:9-23:52
+	android:screenOrientation
+		ADDED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:23:13-49
+	android:hardwareAccelerated
+		ADDED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:21:13-88
+activity#in.myinnos.awesomeimagepicker.activities.ImageSelectActivity
+ADDED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:24:9-27:52
+	android:screenOrientation
+		ADDED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:27:13-49
+	android:hardwareAccelerated
+		ADDED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from [com.github.myinnos:AwesomeImagePicker:1.0.2] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/AwesomeImagePicker-1.0.2.aar/f90e94fd3e13a07bb5f2137abe99e200/AndroidManifest.xml:25:13-88
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.13] /Data/Apps/Android/android-studio/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.13.aar/a7280868a573446772be2754c0629237/AndroidManifest.xml:46:22-80
